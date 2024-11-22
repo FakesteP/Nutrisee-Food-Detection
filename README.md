@@ -5,5 +5,5 @@
 
 <h2>⚒️ Languages and Tools</h2>
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,tensorflow,kotlin,gcp,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,tensorflow,kotlin,gcp,androidstudio,collab,roboflow" /><br>
 </div>
