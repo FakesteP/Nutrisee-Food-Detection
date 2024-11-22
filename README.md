@@ -23,3 +23,13 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 <div>
     <img src="https://skillicons.dev/icons?i=vscode,figma,github,tensorflow,py,kotlin,gcp,androidstudio" /><br>
 </div>
+
+<h2>
+  Our Repositories
+</h2>
+
+| Learning Path  | Repositoriy Name | Repository Link |
+| ------------- | ------------- | ------------- |
+| Machine Learning | -- | -- |
+| Cloud Computing | -- | -- |
+| Mobile Development | -- | -- |
