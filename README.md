@@ -8,6 +8,7 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 <h2>
   Team Member
 </h2>
+
 | ID  | Name | Learning Path |
 | ------------- | ------------- | ------------- |
 | M297B4KY1465 | Febrian Chrisna Ardianto | Machine Learning |
