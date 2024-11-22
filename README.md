@@ -5,6 +5,9 @@
 NutriSee, is a mobile application designed to address the need for accessible nutritional information in Indonesia. The app leverages machine learning to recognize food images taken by users and provides personalized nutritional insights. It also integrates cloud computing to process and store data efficiently, offering tailored dietary recommendations to combat health issues such as obesity and poor food awareness.
 </p>
 
+<h2>
+  Team Member
+</h2>
 | ID  | Name | Learning Path |
 | ------------- | ------------- | ------------- |
 | M297B4KY1465 | Febrian Chrisna Ardianto | Machine Learning |
