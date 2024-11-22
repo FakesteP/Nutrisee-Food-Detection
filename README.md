@@ -19,11 +19,6 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 | A183B4KY2110 | Julian Kiyosaki Hananta | Mobile Development |
 | A183B4KY1295 | Evan Zaqli | Mobile Development |
 
-<h2>⚒️ Languages and Tools</h2>
-<div>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,tensorflow,py,kotlin,gcp,androidstudio" /><br>
-</div>
-
 <h2>
   Our Repositories
 </h2>
@@ -33,3 +28,8 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 | Machine Learning | -- | -- |
 | Cloud Computing | -- | -- |
 | Mobile Development | -- | -- |
+
+<h2>⚒️ Languages and Tools</h2>
+<div>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,tensorflow,py,kotlin,gcp,androidstudio" /><br>
+</div>
