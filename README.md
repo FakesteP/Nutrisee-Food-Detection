@@ -27,7 +27,7 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 | ------------- | ------------- | ------------- |
 | Machine Learning | -- | -- |
 | Cloud Computing | -- | -- |
-| Mobile Development | -- | -- |
+| Mobile Development | Nutrisee-Food-Detection | https://github.com/Evanzaqli/Nutrisee-Food-Detection |
 
 <h2>⚒️ Languages and Tools</h2>
 <div>
