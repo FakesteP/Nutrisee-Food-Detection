@@ -26,7 +26,7 @@ NutriSee, is a mobile application designed to address the need for accessible nu
 | Learning Path  | Repositoriy Name | Repository Link |
 | ------------- | ------------- | ------------- |
 | Machine Learning | -- | -- |
-| Cloud Computing | -- | -- |
+| Cloud Computing | -- | https://github.com/Axafacto/api-nutrisee |
 | Mobile Development | Nutrisee-Food-Detection | https://github.com/Evanzaqli/Nutrisee-Food-Detection |
 
 <h2>⚒️ Languages and Tools</h2>
